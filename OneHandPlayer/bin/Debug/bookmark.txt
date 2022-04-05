@@ -1,0 +1,9 @@
+jumptime*2
+mouse_volume>True
+mouse_time>True
+mouse_click_pause>True
+mouse_click_fill>True
+mouse_wheel>True
+thumbnail>True
+file:///D:/학교/end_project/영상/AWildlife.mp4.mp4?00:00:54
+file:///D:/학교/end_project/영상/AWildlife.mp4.mp4?00:00:55
